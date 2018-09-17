@@ -1,0 +1,7 @@
+{
+  "name": "RoseEventPlanner",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
