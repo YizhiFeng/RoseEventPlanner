@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "Rose Event Planner",
+  "short_name": "REP",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
